@@ -15,7 +15,7 @@ var commands = {
 };
 
 var paths = {
-	"ConnectSDK_Repository": "https://github.com/dime13016/Connect-SDK-Android.git",
+	"ConnectSDK_Repository": "https://github.com/ConnectSDK/Connect-SDK-Android.git",
 	"ConnectSDK_Tag": "master",
 	"FlingSDK_URL": "https://s3-us-west-1.amazonaws.com/amazon-fling/AmazonFling-SDK.zip",
 	"AmazonFling_Jar": "./csdk_tmp/android-sdk/lib/AmazonFling.jar",
